@@ -1,0 +1,14 @@
+{
+  "name": "AngularJS-FlowChart",
+  "version": "0.1.0",
+  "main": [
+    "./flowchart/dragging_service.js",
+    "./flowchart/flowchart_directive.js",
+    "./flowchart/flowchart_viewmodel.js",
+    "./flowchart/mouse_capture_service.js",
+    "./flowchart/svg_class.js"
+  ],
+  "dependencies": {
+  }
+}
+
